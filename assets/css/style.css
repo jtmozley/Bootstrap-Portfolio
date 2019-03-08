@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url(../images/white-waves.png);
+    height: 960px;
+}
+
+.bg-light {
+    height: 90px;
+    width: 100%;
+}
+
+.navContent {
+    width: 960px;
+}
+
+.nameBox {
+    height: 90px;
+    width: 290px;
+}
